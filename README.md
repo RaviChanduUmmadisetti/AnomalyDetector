@@ -76,3 +76,5 @@ Example data is provided in this repository, along with example JSON responses f
 * Your data has at least 4 periods if it does have clear perodicity.
 Please read [Best practices for using the Anomaly Detector API](https://aka.ms/adbest) for details.
 # Skillayer enabled
+# Skillayer enabled
+# Skillayer enabled test
